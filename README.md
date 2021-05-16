@@ -1,4 +1,7 @@
 # Fun-Finder
+Live deploy:  https://connorcleveland2002.github.io/fun-finder/homePage.html
+Contact Portfolio:  https://connorcleveland2002.github.io/Portfolio-Homework/#aboutme
+
 ![img](img/Capture1.PNG)
 ## Description
 The fun finder app uses the ticketmaster api to allow the user to search for events. The site alllows them to search by city, keyword, date, and event type. The resultig events can be saved into local storage and accessed in later browser sessions. If saved events fall within one week of the current day the user can look at a weather forcast for the day and location associated with that event. The search also allows the user to use their ip address location as the city input.
